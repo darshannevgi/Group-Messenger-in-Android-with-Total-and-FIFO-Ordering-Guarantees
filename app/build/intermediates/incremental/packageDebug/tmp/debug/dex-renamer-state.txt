@@ -1,0 +1,4 @@
+#Sat Mar 23 02:06:26 EDT 2019
+base.0=/home/darshan/Downloads/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 14 23:48:27 EDT 2019
+0.baseType=DIRECTORY
+0.base=/home/darshan/Downloads/GroupMessenger2/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1
